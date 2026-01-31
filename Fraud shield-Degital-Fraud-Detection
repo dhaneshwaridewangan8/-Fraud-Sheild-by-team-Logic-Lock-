@@ -1,0 +1,26 @@
+# FraudShield – Smart Digital Fraud Detection Platform
+
+FraudShield is a web-based application designed to detect suspicious links and scam messages using rule-based analysis. It also allows users to report fraud cases, view fraud trends, and learn safety tips to prevent digital fraud.
+
+## Features
+- Detect phishing links and scam messages
+- Community fraud reporting
+- Fraud analytics dashboard
+- Awareness and safety tips
+
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python (Flask)
+- Database: SQLite / MySQL
+
+## Usage
+1. Paste a suspicious message or link.
+2. Click "Check".
+3. View fraud risk result.
+4. Report fraud if detected.
+
+## Future Scope
+- Multilingual support
+- Mobile app
+- AI-based detection
+- Browser extension
